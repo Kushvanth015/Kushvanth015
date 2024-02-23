@@ -1,29 +1,70 @@
-<h1 align="center">Hi 👋, I'm Badisa kushvanth venkata karthik</h1>
-<h3 align="center">Learning new skills is not just a hobby, it's my relentless pursuit of excellence</h3>
-<div align="center"> <img alt="img" width="1000" height="400" src="https://github.com/Kushvanth015/Kushvanth_profile/blob/main/pic1.jpeg"> </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushvanth015&label=Profile%20views&color=0e75b6&style=flat" alt="kushvanth015" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kushvanth015&label=Profile%20views&color=0e75b6&style=flat" alt="kushvanth015" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Badisa+kushvanth+venkata+karthik!;" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/kushvan77529516" target="blank"><img src="https://img.shields.io/twitter/follow/kushvan77529516?logo=twitter&style=for-the-badge" alt="kushvan77529516" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/Kushvanth015/Kushvanth_profile/blob/main/gif.gif">
-- 🔭 I’m currently working on **FMML Internship**
+<h3 align="center">Learning new skills is not just a hobby, it's my relentless pursuit of excellence</h3><br>
 
-- 🌱 I’m currently learning **Logic Building**
+<div align="center">
+🔭 I’m currently working on **FMML Internship**
 
-- 👨‍💻 All of my projects are available at [https://kushvanth-portfolio.netlify.app/](https://kushvanth-portfolio.netlify.app/)
+🌱 I’m currently learning **Logic Building**
 
-- 📫 How to reach me **badisakushvanthvenkatakarthik@gmail.com**
+⚡ Fun fact **Bananas are berries, but strawberries aren't**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kushvan77529516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushvan77529516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kushvanth venkata karthik badisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushvanth venkata karthik badisa" height="30" width="40" /></a>
-<a href="https://fb.com/kushvanth karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushvanth karthik" height="30" width="40" /></a>
-<a href="https://instagram.com/kushvanth55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushvanth55" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+  <a href="mailto:pedro.sales.badisakushvanthvenkatakarthik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/kushvanth-badisa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://kushvanth-portfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://twitter.com/kushvan77529516">
+    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=blue" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushvanth015&show_icons=true&locale=en&layout=compact" alt="kushvanth015" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushvanth015&" alt="kushvanth015" /></p>
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,flask,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,vscode" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
+<h2 align="center">⚡ Status ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kushvanth015&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kushvanth015&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kushvanth015&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<img align='left' src="https://github.com/Kushvanth015/Kushvanth015/blob/main/giphy%20(1).gif" width="100"><em>
+   <b>  Say hello anytime!</b> I'm all about meeting new faces and making connections</b> :)</em>
+<br/>
+<a href="https://www.linkedin.com/in/kushvanth-badisa/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
+<br/>
+<em><b>  You can also follow me on Github</b> :)</em>
+
+<img align="center" alt="Coding" width="1100" height="200" src="https://raw.githubusercontent.com/Kushvanth015/Kushvanth015/main/pic.avif">
+
+
