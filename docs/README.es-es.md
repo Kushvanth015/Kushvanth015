@@ -1,6 +1,6 @@
 # GitHub Profile 3D Contrib.
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg](https://raw.githubusercontent.com/kushvanth015/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 [日本語](./README.ja-jp.md) | [English](/README.md)
 
@@ -118,7 +118,7 @@ ejemplo: night reinbow version
 
 ejemplo: git block version
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg](https://raw.githubusercontent.com/kushvanth015/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 ### paso 4. Agregar imagen a README.md
 
