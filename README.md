@@ -1,3 +1,6 @@
+<div align=center>
+<img align="center" alt="Coding" width="100" height="100" src="https://github.com/Kushvanth015/Kushvanth015/blob/main/512%20(1).gif">
+</div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kushvanth015&label=Profile%20views&color=0e75b6&style=flat" alt="kushvanth015" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Badisa+kushvanth+venkata+karthik!;" />
