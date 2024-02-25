@@ -61,7 +61,7 @@
 
 <br/>
 
-<img align='left' src="https://github.com/Kushvanth015/Kushvanth015/blob/main/giphy%20(1).gif" width="100"><em>
+<img align='left' src="https://github.com/Kushvanth015/Kushvanth015/blob/main/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"><em>
    <b>  Say hello anytime!</b> I'm all about meeting new faces and making connections</b> :)</em>
 <br/>
 <a href="https://www.linkedin.com/in/kushvanth-badisa/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
