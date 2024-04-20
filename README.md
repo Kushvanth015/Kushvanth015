@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=blue" />
 </a>
 
-<a href="https://twitter.com/kushvan77529516">
+<a href="https://www.hackerrank.com/profile/badisakushvanth1">
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
 </a>
 
